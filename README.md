@@ -1,2 +1,2 @@
 # Axel Hub
-![Main](relative/path/to/image.png)
+![Main](1680330591550-thumbnail.jpeg)
